@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 
+
 """
+
 String surfer is a collection of functions for manipulating strings.
+
+If I didn't write it check the comment above for credit.
 
 """
 
